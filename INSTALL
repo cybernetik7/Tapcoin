@@ -1,0 +1,9 @@
+Building TapCoin
+
+See doc/readme-qt.rst for instructions on building TapCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of TapCoin.
+
+See doc/build-*.txt for instructions on building TapCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of TapCoin.

@@ -1,0 +1,5 @@
+TapCoin-qt usr/bin
+share/pixmaps/bitcoin32.xpm usr/share/pixmaps
+share/pixmaps/bitcoin80.xpm usr/share/pixmaps
+debian/TapCoin-qt.desktop usr/share/applications
+debian/TapCoin-qt.protocol usr/share/kde4/services/

@@ -1,0 +1,2 @@
+debian/bin/TapCoind usr/bin
+src/TapCoind usr/lib/TapCoin
